@@ -1,0 +1,132 @@
+{"frames": {
+
+"play.png":
+{
+	"frame": {"x":0,"y":0,"w":100,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":50},
+	"sourceSize": {"w":100,"h":50}
+},
+"menu.png":
+{
+	"frame": {"x":100,"y":0,"w":100,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":50},
+	"sourceSize": {"w":100,"h":50}
+},
+"mask.png":
+{
+	"frame": {"x":200,"y":0,"w":100,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":50},
+	"sourceSize": {"w":100,"h":50}
+},
+"mainShip.png":
+{
+	"frame": {"x":300,"y":0,"w":124,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":58},
+	"sourceSize": {"w":124,"h":58}
+},
+"lrocketReverse2.png":
+{
+	"frame": {"x":424,"y":0,"w":24,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":48},
+	"sourceSize": {"w":24,"h":48}
+},
+"lrocketReverse1.png":
+{
+	"frame": {"x":448,"y":0,"w":21,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":42},
+	"sourceSize": {"w":21,"h":42}
+},
+"lrocket.png":
+{
+	"frame": {"x":469,"y":0,"w":26,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":55},
+	"sourceSize": {"w":26,"h":55}
+},
+"logo.png":
+{
+	"frame": {"x":495,"y":0,"w":350,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":350,"h":100},
+	"sourceSize": {"w":350,"h":100}
+},
+"load.png":
+{
+	"frame": {"x":0,"y":100,"w":100,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":50},
+	"sourceSize": {"w":100,"h":50}
+},
+"healthFrame.png":
+{
+	"frame": {"x":100,"y":100,"w":100,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":25},
+	"sourceSize": {"w":100,"h":25}
+},
+"healthBar.png":
+{
+	"frame": {"x":200,"y":100,"w":96,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":21},
+	"sourceSize": {"w":96,"h":21}
+},
+"enemyShip.png":
+{
+	"frame": {"x":296,"y":100,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"cloud.png":
+{
+	"frame": {"x":396,"y":100,"w":330,"h":141},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":330,"h":141},
+	"sourceSize": {"w":330,"h":141}
+},
+"btn.png":
+{
+	"frame": {"x":726,"y":100,"w":100,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":50},
+	"sourceSize": {"w":100,"h":50}
+},
+"bomb.png":
+{
+	"frame": {"x":826,"y":100,"w":107,"h":111},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":111},
+	"sourceSize": {"w":107,"h":111}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spriteSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":933,"h":241},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:832751b5b9199bc579339e4b38edeabb:73a89418935f3bcf2ff2252797ba5d8b:ea5d22e715ea7a530878e244f6ee1006$"
+}
+}

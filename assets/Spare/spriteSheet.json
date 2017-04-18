@@ -1,0 +1,124 @@
+{"frames": {
+
+"bomb.png":
+{
+	"frame": {"x":0,"y":208,"w":107,"h":111},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":111},
+	"sourceSize": {"w":107,"h":111}
+},
+"cloud.png":
+{
+	"frame": {"x":107,"y":208,"w":330,"h":141},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":330,"h":141},
+	"sourceSize": {"w":330,"h":141}
+},
+"enemyShip.png":
+{
+	"frame": {"x":350,"y":108,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"healthBar.png":
+{
+	"frame": {"x":0,"y":0,"w":96,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":21},
+	"sourceSize": {"w":96,"h":21}
+},
+"healthFrame.png":
+{
+	"frame": {"x":96,"y":0,"w":100,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":25},
+	"sourceSize": {"w":100,"h":25}
+},
+"load.png":
+{
+	"frame": {"x":0,"y":50,"w":100,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":50},
+	"sourceSize": {"w":100,"h":50}
+},
+"logo.png":
+{
+	"frame": {"x":0,"y":108,"w":350,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":350,"h":100},
+	"sourceSize": {"w":350,"h":100}
+},
+"mainShip.png":
+{
+	"frame": {"x":218,"y":50,"w":124,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":58},
+	"sourceSize": {"w":124,"h":58}
+},
+"mask.png":
+{
+	"frame": {"x":100,"y":50,"w":100,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":50},
+	"sourceSize": {"w":100,"h":50}
+},
+"menu.png":
+{
+	"frame": {"x":237,"y":0,"w":100,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":50},
+	"sourceSize": {"w":100,"h":50}
+},
+"play.png":
+{
+	"frame": {"x":337,"y":0,"w":100,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":50},
+	"sourceSize": {"w":100,"h":50}
+},
+"rocket.png":
+{
+	"frame": {"x":200,"y":50,"w":18,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":51},
+	"sourceSize": {"w":18,"h":51}
+},
+"rocketReverse1.png":
+{
+	"frame": {"x":196,"y":0,"w":19,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":40},
+	"sourceSize": {"w":19,"h":40}
+},
+"rocketReverse2.png":
+{
+	"frame": {"x":215,"y":0,"w":22,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":46},
+	"sourceSize": {"w":22,"h":46}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spriteSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":450,"h":349},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5872614823bf64596eb9cefd3bc85335:2b8c65c2c86357cf7cf98c7c5e16ba04:ea5d22e715ea7a530878e244f6ee1006$"
+}
+}
